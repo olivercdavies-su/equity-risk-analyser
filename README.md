@@ -69,8 +69,8 @@ equity-risk-analyser/
 | Phase | Status |
 |---|---|
 | Data pipeline | Complete |
-| Historical & parametric VaR/CVaR | In-Progress |
-| Monte Carlo simulation | Planned |
+| Historical & parametric VaR/CVaR | Complete |
+| Monte Carlo simulation | In-Progress |
 | Portfolio optimisation | Planned |
 | Visualisations & writeup | Planned |
 
